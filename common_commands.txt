@@ -1,0 +1,2 @@
+kaggle competitions download -c <competition_name>
+kaggle competitions submit -c <competition_name> -f submission.csv  -m "Message"
